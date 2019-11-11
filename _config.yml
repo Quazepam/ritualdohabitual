@@ -6,7 +6,8 @@ highlighter:      rouge
 title:            pirHANA
 tagline:          'A SAP logistics consulting one-man band'
 description:      'A SAP logistics consulting one-man band'
-url:              http://www.pirhanaconsulting.com
+baseurl:          'pirhana/'
+url:              https://quazepam.github.io/ritualdohabitual/
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
