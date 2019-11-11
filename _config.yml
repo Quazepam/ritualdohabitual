@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            pirHANA
-tagline:          'A SAP logistics consulting one-man band'
-description:      'A SAP logistics consulting one-man band'
+title:            Ritual do Habitual
+tagline:          'Mais um blog sobre nada em especial'
+description:      'Mais um blog sobre nada em especial'
 baseurl:          'ritualdohabitual/'
 url:              https://quazepam.github.io/
                   # the optional subpath of your site, e.g. "/blog"
