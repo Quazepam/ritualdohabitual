@@ -2,7 +2,7 @@
 layout: post
 title: "Hello world: or the most cliché first post ever"
 categories:
-  - Musings
+  - Geral
 tags:
   - meta
 ---
