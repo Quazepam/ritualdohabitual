@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Ritual do Habitual
-tagline:          'Mais um blog sobre nada em especial'
-description:      'Mais um blog sobre nada em especial'
+tagline:          'Aquele blog sobre nada em especial'
+description:      'Aquele blog sobre nada em especial'
 baseurl:          'ritualdohabitual/'
 url:              https://quazepam.github.io/
                   # the optional subpath of your site, e.g. "/blog"

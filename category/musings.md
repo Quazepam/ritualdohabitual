@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Musings
+title: Vida, o universo, e tudo o resto
 ---
 
 Sample category page. You need to create a page for each category.
