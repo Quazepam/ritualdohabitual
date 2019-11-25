@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ritual do Habitual
+title:            Ritual do habitual
 tagline:          'Aquele blog sobre nada em especial'
 description:      'Aquele blog sobre nada em especial'
 baseurl:          'ritualdohabitual/'
@@ -15,8 +15,7 @@ url:              https://quazepam.github.io/
                   # sidebar_blog_link below.
 
 author:
-  name:           'André Sucena'
-  url:            https://www.linkedin.com/in/andresucena/
+  name:           'Sixtyten'
 
 paginate:         5
 # paginate_path:    '/page:num'
