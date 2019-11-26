@@ -6,7 +6,6 @@ highlighter:      rouge
 title:            Ritual do habitual
 tagline:          'Aquele blog sobre nada em especial'
 description:      'Aquele blog sobre nada em especial'
-baseurl:          'ritualdohabitual/'
 url:              https://quazepam.github.io/
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
