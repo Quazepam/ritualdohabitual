@@ -3,4 +3,4 @@ layout: category
 title: Actualidade
 ---
 
-Comentários que nem pediu aos eventos da actualidade
+Comentários que ninguém pediu aos eventos da actualidade
