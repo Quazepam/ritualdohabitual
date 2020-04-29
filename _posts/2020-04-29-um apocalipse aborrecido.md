@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Um apocalipse aborrecido - Dia 35"
+comments: true
+title: "Um apocalipse aborrecido - dia 35"
 categories:
   - Geral
 tags:

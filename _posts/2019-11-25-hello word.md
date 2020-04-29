@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Hello world: ou o post inicial genérico como manda a praxe"
 categories:
   - Geral
