@@ -1,0 +1,12 @@
+---
+title: palco
+description:
+date: 2025-11-13
+draft: false
+tags:
+  - poesia
+---
+quão estranho é o síndrome de impostor  
+entre amigos como um actor de método  
+com polias e pesos segurando a dor  
+de se representar sem qualquer enredo
