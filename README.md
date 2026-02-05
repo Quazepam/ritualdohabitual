@@ -1,10 +1,10 @@
-Personal blog built with Hugo. Deployed to [your-site.com].
+Personal blog built with Hugo. Deployed to ritualdohabitual.com.
 
 Structure:
 
     /content/: Posts (under CC BY-ND).
 
-    /themes/: Custom theme.
+    /themes/: Custom theme: Shibui.
 
     /static/: Images/CSS.
 
