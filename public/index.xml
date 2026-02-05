@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ritual do Habitual</title>
+    <title>intro on Ritual do Habitual</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Ritual do Habitual</description>
+    <description>Recent content in intro on Ritual do Habitual</description>
     <generator>Hugo</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sun, 28 Dec 2025 17:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog post</title>
-      <link>http://localhost:1313/posts/templates/blog-post/</link>
-      <pubDate>Sun, 28 Dec 2025 17:45:22 +0000</pubDate>
-      <guid>http://localhost:1313/posts/templates/blog-post/</guid>
-      <description></description>
+      <title>sobre o meu pai</title>
+      <link>http://localhost:1313/posts/3-sobreomeupai/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/3-sobreomeupai/</guid>
+      <description>&lt;p&gt;Sinto que devo esclarecer algo sobre o recente falecimento do meu pai, não só como seu primogénito, mas como resposta aberta a comentários que tenho recebido de pessoas bem-intencionadas que, não sabendo o contexto todo, acabam por me magoar acidentalmente nas suas tentativas de dizer algo mais do que os simples pêsames.&lt;/p&gt;&#xA;&lt;p&gt;O meu pai era um homem inteligente, culto, idealista, orgulhoso. Podíamos encontrá-lo a ler um livro ou o jornal a qualquer hora, e gostava de partilhar o seu conhecimento em conversas longas. Estava sempre bem vestido. Tinha bom humor e gostava de contar uma boa anedota. Gostava de filmes de acção, em particular os “Die Hard”. Tinha um forte interesse em tecnologia antes de ser comum, e trouxe um computador com Internet a casa muito cedo. Levava-me a pescar com ele aos fins-de-semana. Por estas influências, estou-lhe grato.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog post</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sun, 28 Dec 2025 17:45:22 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;isto é um teste&lt;/p&gt;&#xA;&lt;h2 id=&#34;isto-tambeeem&#34;&gt;isto tambeeem&lt;/h2&gt;</description>
+      <title>palco</title>
+      <link>http://localhost:1313/posts/2-palco/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2-palco/</guid>
+      <description>&lt;p&gt;quão estranho é o síndrome de impostor&lt;br&gt;&#xA;entre amigos como um actor de método&lt;br&gt;&#xA;com polias e pesos segurando a dor&lt;br&gt;&#xA;de se representar sem qualquer enredo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>guitarra</title>
+      <link>http://localhost:1313/posts/1-guitarra/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1-guitarra/</guid>
+      <description>&lt;p&gt;Há uma guitarra contra a parede&lt;br&gt;&#xA;Com cordas gastas e pó nos trastes&lt;br&gt;&#xA;Quantas canções guardaste&lt;br&gt;&#xA;Numa gaveta trancada&lt;br&gt;&#xA;Cuja chave já não encontras&lt;/p&gt;&#xA;&lt;p&gt;Às vezes passas por ela&lt;br&gt;&#xA;E finges não reparar&lt;br&gt;&#xA;Como quem evita um espelho&lt;br&gt;&#xA;Com medo de encarar&lt;br&gt;&#xA;O que ainda poderia fazer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;se fosse bom a descrever-me, escreveria menos.&lt;/p&gt;&#xA;&lt;p&gt;se quiseres dizer olá, envia-me um email para &lt;a href=&#34;mailto:andre@ritualdohabitual.com&#34;&gt;andre@ritualdohabitual.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
