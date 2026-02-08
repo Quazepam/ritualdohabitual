@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 guitarra.md",
+                "file": "4 liquido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 guitarra"
+              "title": "4 liquido"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "2dbdb2636c8e6a43",
   "lastOpenFiles": [
-    "Templates/Blog post.md",
-    "1 guitarra.md",
-    "2 palco.md",
+    "2025-12-07.md",
+    "4 liquido.md",
+    "2026-02-08.md",
     "3 sobreomeupai.md",
+    "1 guitarra.md",
+    "Templates/Blog post.md",
+    "2 palco.md",
     "Untitled.md",
     "Teste.md"
   ]
