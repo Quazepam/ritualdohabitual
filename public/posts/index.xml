@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ritual do Habitual</description>
     <generator>Hugo</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>peso</title>
+      <link>http://localhost:1313/posts/5-peso/</link>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/5-peso/</guid>
+      <description>&lt;p&gt;nem sempre é fácil&lt;br&gt;&#xA;encarar o outro&lt;br&gt;&#xA;mesmo que não olhe de volta&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;fá-lo fixamente&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já sabe que tem&lt;/p&gt;&#xA;&lt;p&gt;mas é mais difícil&lt;br&gt;&#xA;carregar a culpa&lt;br&gt;&#xA;mesmo a não merecida&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;ceder cansado&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já não sabe quem&lt;br&gt;&#xA;é&lt;/p&gt;</description>
+    </item>
     <item>
       <title>líquido</title>
       <link>http://localhost:1313/posts/4-liquido/</link>
@@ -34,7 +41,7 @@
       <link>http://localhost:1313/posts/1-guitarra/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/1-guitarra/</guid>
-      <description>&lt;p&gt;Há uma guitarra contra a parede&lt;br&gt;&#xA;Com cordas gastas e pó nos trastes&lt;br&gt;&#xA;Quantas canções guardaste&lt;br&gt;&#xA;Numa gaveta trancada&lt;br&gt;&#xA;Cuja chave já não encontras&lt;/p&gt;&#xA;&lt;p&gt;Às vezes passas por ela&lt;br&gt;&#xA;E finges não reparar&lt;br&gt;&#xA;Como quem evita um espelho&lt;br&gt;&#xA;Com medo de encarar&lt;br&gt;&#xA;O que ainda poderia fazer&lt;/p&gt;</description>
+      <description>&lt;p&gt;Há uma guitarra contra a parede&lt;br&gt;&#xA;com cordas gastas e pó nos trastes&lt;br&gt;&#xA;quantas canções guardaste&lt;br&gt;&#xA;numa gaveta trancada&lt;br&gt;&#xA;cuja chave já não encontras&lt;/p&gt;&#xA;&lt;p&gt;Às vezes passas por ela&lt;br&gt;&#xA;e finges não reparar&lt;br&gt;&#xA;como quem evita um espelho&lt;br&gt;&#xA;com medo de encarar&lt;br&gt;&#xA;o que ainda poderia fazer&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
