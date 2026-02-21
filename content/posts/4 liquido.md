@@ -9,14 +9,14 @@ tags:
 O mar é um espelho  
 que nada reflecte  
 engole a luz  
-por si transparente.  
+por si transparente  
   
 À superfície  
 peixes brilham  
 por feixes sombrios  
-rumo ao horizonte.  
+rumo ao horizonte    
   
 Ilusórias ambições  
 líquidas sobre turquesa  
 derramadas pelo sol  
-numa tarde de Verão.
+numa tarde de Verão  

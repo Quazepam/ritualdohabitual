@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 liquido.md",
+                "file": "5 peso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 liquido"
+              "title": "5 peso"
             }
           }
         ]
@@ -183,15 +183,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "2dbdb2636c8e6a43",
+  "active": "456a6fad6dcddcb6",
   "lastOpenFiles": [
-    "2025-12-07.md",
-    "4 liquido.md",
-    "2026-02-08.md",
-    "3 sobreomeupai.md",
+    "2026-02-07.md",
+    "5 peso.md",
     "1 guitarra.md",
-    "Templates/Blog post.md",
     "2 palco.md",
+    "3 sobreomeupai.md",
+    "4 liquido.md",
+    "2025-12-07.md",
+    "2026-02-08.md",
+    "Templates/Blog post.md",
     "Untitled.md",
     "Teste.md"
   ]
