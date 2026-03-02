@@ -1,5 +1,5 @@
 ---
-title: peso
+title: espelho
 description:
 date: 2026-02-21
 draft: false
