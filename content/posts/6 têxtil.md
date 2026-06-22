@@ -11,8 +11,8 @@ com manta de seda
 os sinais sussurram   
 não os ouço   
   
-o conforto substitui  
-tudo por veludo sintético  
+o conforto substitui      
+por veludo sintético  
 os sinais falam  
 recuso ouvir  
   
