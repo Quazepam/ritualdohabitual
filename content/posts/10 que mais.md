@@ -18,4 +18,4 @@ há tempo
   
 não falta nada  
   
-só sentido  
+só uma razão  

@@ -10,7 +10,7 @@ nem sempre é fácil
 encarar o outro  
 mesmo que não olhe de volta  
 sem qualquer ódio  
-fá-lo fixamente  
+observa fixamente  
 com um certo desdém  
 de quem já sabe que tem  
   

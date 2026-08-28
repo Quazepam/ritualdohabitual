@@ -21,4 +21,3 @@ observando o tempo que vos ignora.
 Então percebes  
 que mais raro do que mudar de verdade  
 é mudar na direcção que o teu coração implora.  
-Isso seria um milagre.  
