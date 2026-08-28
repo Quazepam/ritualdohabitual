@@ -19,7 +19,7 @@ em cidades onde ninguém
 sabia o meu nome
 
 ouvi dizer  
-que a verdade liberta 
+que a verdade liberta  
 mas nunca encontrei  
 ninguém livre  
 para perguntar  
