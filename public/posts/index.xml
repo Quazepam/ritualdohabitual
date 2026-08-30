@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Ritual do Habitual</description>
     <generator>Hugo</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>verdade</title>
+      <link>http://localhost:1313/posts/11-verdade/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/11-verdade/</guid>
+      <description>&lt;p&gt;procurei a verdade&lt;br&gt;&#xA;nos livros&lt;br&gt;&#xA;nas pessoas que falam alto&lt;br&gt;&#xA;nas pessoas que falam baixo&lt;br&gt;&#xA;nas coisas que permanecem&lt;br&gt;&#xA;nas coisas que desaparecem&lt;br&gt;&#xA;procurei-a no fundo&lt;br&gt;&#xA;de um copo vazio&lt;br&gt;&#xA;em quartos de hotel&lt;br&gt;&#xA;em cidades onde ninguém&lt;br&gt;&#xA;sabia o meu nome&lt;/p&gt;&#xA;&lt;p&gt;ouvi dizer&lt;br&gt;&#xA;que a verdade liberta&lt;br&gt;&#xA;mas nunca encontrei&lt;br&gt;&#xA;ninguém livre&lt;br&gt;&#xA;para perguntar&lt;/p&gt;&#xA;&lt;p&gt;esta manhã&lt;br&gt;&#xA;acordei antes dela&lt;br&gt;&#xA;a luz entrava&lt;br&gt;&#xA;suave pela janela&lt;br&gt;&#xA;e por um instante&lt;br&gt;&#xA;deixei de procurar&lt;br&gt;&#xA;a verdade&#xA;era o seu corpo&lt;br&gt;&#xA;debaixo de um lençol fino&lt;/p&gt;</description>
+    </item>
     <item>
       <title>que mais</title>
       <link>http://localhost:1313/posts/10-que-mais/</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/10-que-mais/</guid>
-      <description>&lt;p&gt;tenho tudo&lt;/p&gt;&#xA;&lt;p&gt;a casa quente&lt;br&gt;&#xA;a comida feita&lt;br&gt;&#xA;os lençóis limpos&lt;/p&gt;&#xA;&lt;p&gt;há conforto&lt;br&gt;&#xA;há silêncio&lt;br&gt;&#xA;há tempo&lt;/p&gt;&#xA;&lt;p&gt;não falta nada&lt;/p&gt;&#xA;&lt;p&gt;só sentido&lt;/p&gt;</description>
+      <description>&lt;p&gt;tenho tudo&lt;/p&gt;&#xA;&lt;p&gt;a casa quente&lt;br&gt;&#xA;a comida feita&lt;br&gt;&#xA;os lençóis limpos&lt;/p&gt;&#xA;&lt;p&gt;há conforto&lt;br&gt;&#xA;há silêncio&lt;br&gt;&#xA;há tempo&lt;/p&gt;&#xA;&lt;p&gt;não falta nada&lt;/p&gt;&#xA;&lt;p&gt;só uma razão&lt;/p&gt;</description>
     </item>
     <item>
       <title>dançarina</title>
@@ -27,7 +34,7 @@
       <link>http://localhost:1313/posts/8-teimosia/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/8-teimosia/</guid>
-      <description>&lt;p&gt;As pessoas mudam. Talvez.&lt;br&gt;&#xA;Tens de acreditar nisso para continuares a tentar.&lt;/p&gt;&#xA;&lt;p&gt;Mas ninguém te conta que mudam aos solavancos &lt;br&gt;&#xA;como um negócio muda de nome&lt;br&gt;&#xA;sem tratar da causa da falência anterior.&lt;/p&gt;&#xA;&lt;p&gt;Dizem-te que avançam, mas apenas deambulam&lt;br&gt;&#xA;ao redor de si mesmas. E ali ficas tu,&lt;br&gt;&#xA;especado no meio do teu caminho&lt;br&gt;&#xA;observando o tempo que vos ignora.&lt;/p&gt;&#xA;&lt;p&gt;Então percebes&lt;br&gt;&#xA;que mais raro do que mudar de verdade&lt;br&gt;&#xA;é mudar na direcção que o teu coração implora.&lt;br&gt;&#xA;Isso seria um milagre.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As pessoas mudam. Talvez.&lt;br&gt;&#xA;Tens de acreditar nisso para continuares a tentar.&lt;/p&gt;&#xA;&lt;p&gt;Mas ninguém te conta que mudam aos solavancos &lt;br&gt;&#xA;como um negócio muda de nome&lt;br&gt;&#xA;sem tratar da causa da falência anterior.&lt;/p&gt;&#xA;&lt;p&gt;Dizem-te que avançam, mas apenas deambulam&lt;br&gt;&#xA;ao redor de si mesmas. E ali ficas tu,&lt;br&gt;&#xA;especado no meio do teu caminho&lt;br&gt;&#xA;observando o tempo que vos ignora.&lt;/p&gt;&#xA;&lt;p&gt;Então percebes&lt;br&gt;&#xA;que mais raro do que mudar de verdade&lt;br&gt;&#xA;é mudar na direcção que o teu coração implora.&lt;/p&gt;</description>
     </item>
     <item>
       <title>amor é trabalho</title>
@@ -48,7 +55,7 @@
       <link>http://localhost:1313/posts/5-espelho/</link>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/5-espelho/</guid>
-      <description>&lt;p&gt;nem sempre é fácil&lt;br&gt;&#xA;encarar o outro&lt;br&gt;&#xA;mesmo que não olhe de volta&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;fá-lo fixamente&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já sabe que tem&lt;/p&gt;&#xA;&lt;p&gt;mas é mais difícil&lt;br&gt;&#xA;carregar a culpa&lt;br&gt;&#xA;mesmo a não merecida&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;ceder cansado&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já não sabe quem&lt;br&gt;&#xA;é&lt;/p&gt;</description>
+      <description>&lt;p&gt;nem sempre é fácil&lt;br&gt;&#xA;encarar o outro&lt;br&gt;&#xA;mesmo que não olhe de volta&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;observa fixamente&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já sabe que tem&lt;/p&gt;&#xA;&lt;p&gt;mas é mais difícil&lt;br&gt;&#xA;carregar a culpa&lt;br&gt;&#xA;mesmo a não merecida&lt;br&gt;&#xA;sem qualquer ódio&lt;br&gt;&#xA;ceder cansado&lt;br&gt;&#xA;com um certo desdém&lt;br&gt;&#xA;de quem já não sabe quem&lt;br&gt;&#xA;é&lt;/p&gt;</description>
     </item>
     <item>
       <title>líquido</title>
