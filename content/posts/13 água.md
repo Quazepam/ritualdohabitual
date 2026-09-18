@@ -41,15 +41,15 @@ serena
   
 pensei que devia fazer algo  
   
-mas quando finalmente entrei  
+mas quando finalmente mergulhei  
 já não estava lá  
   
-a água vazia  
+a água fria    
 o fundo da piscina  
+a falta de ar  
 a minha cara  
-debaixo de água  
   
 saí  
 corri pela rua  
-a gritar molhado  
-sem saber de quê
+a gritar silencioso  
+como um afogado
