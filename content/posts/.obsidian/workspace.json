@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "ab06c5dd51c370b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 água.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 água"
+            }
+          },
+          {
             "id": "d7f46c7567820462",
             "type": "leaf",
             "state": {
@@ -72,9 +86,37 @@
               "icon": "lucide-file",
               "title": "Nova aba"
             }
+          },
+          {
+            "id": "d1aee8b532925bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 água.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 água"
+            }
+          },
+          {
+            "id": "f053e1a5a72fb861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 água.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 água"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,7 +136,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de ficheiros"
@@ -236,11 +280,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ac6f93fe4168895f",
+  "active": "f053e1a5a72fb861",
   "lastOpenFiles": [
+    "13 água.md",
     "12 ode à professora de yoga improvisada.md",
-    "11 verdade.md",
     "Sem título.md",
+    "11 verdade.md",
     "3 sobreomeupai.md",
     "10 que mais.md",
     "9 dançarina.md",
